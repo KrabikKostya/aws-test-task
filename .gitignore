@@ -1,0 +1,5 @@
+*.tfstate*
+.terraform/
+*.zip
+.env
+terraform.tfvars
