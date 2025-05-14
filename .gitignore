@@ -4,4 +4,5 @@
 .env
 terraform.tfvars
 .git/
+test.pem
 
